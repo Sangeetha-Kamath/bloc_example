@@ -1,5 +1,3 @@
-import 'dart:convert';
-import 'dart:developer';
 
 import 'package:flutter_weatherapp/model/weather.dart';
 import 'package:weather/weather.dart';

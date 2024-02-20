@@ -3,7 +3,6 @@ import 'package:flutter/material.dart';
 import 'package:flutter_weatherapp/constants/err_message.dart';
 import 'package:flutter_weatherapp/screens/weather/weather_screen.dart';
 
-import '../../../blocs/weather/weather_bloc.dart';
 
 class LocationProvider with ChangeNotifier {
   TextEditingController cityController = TextEditingController();
